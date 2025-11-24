@@ -1,4 +1,4 @@
-História 1 – “O Plano do Político e o Banco”
+📖 História 1 – “O Plano do Político e o Banco”
 Cena 1 – Jardim do condomínio
 
 Gatão está sobre um muro, sentado com a cauda enrolada nas patas, olhos atentos.
