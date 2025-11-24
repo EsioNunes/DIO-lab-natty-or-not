@@ -10,7 +10,7 @@ Chat GPT
 Foi desenvolvido um prompt instruindo a LLM a gerar uma história em quadrinhos
 
 ## 🚀 Resultados
-As histórias geradas estão em:
+As histórias geradas estão em: historia01, historia02 e historia03.
 
 ## 💭 Reflexão (Opcional)
 Foram tentados vários prompts onde foi pedido também a geração da imagem (desenho) por se tratar do produto final ser uma história em quadrinhos. 
